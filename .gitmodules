@@ -1,0 +1,3 @@
+[submodule "rma_ept_x"]
+	path = rma_ept_x
+	url = git@github.com:viernes/rma_ept_x.git
