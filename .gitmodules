@@ -1,3 +1,6 @@
 [submodule "rma_ept_x"]
 	path = rma_ept_x
 	url = git@github.com:viernes/rma_ept_x.git
+[submodule "global_invoice_pos"]
+	path = global_invoice_pos
+	url = git@gitlab.com:xmarts/apps/global_invoice_pos.git
