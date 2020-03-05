@@ -4,3 +4,8 @@
 [submodule "global_invoice_pos"]
 	path = global_invoice_pos
 	url = git@gitlab.com:xmarts/apps/global_invoice_pos.git
+
+[submodule "customer_uso_cfdi"]
+	path = customer_uso_cfdi
+	url = git@github.com:xmarts/customer_uso_cfdi.git
+	branch = master
