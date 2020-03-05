@@ -9,3 +9,8 @@
 	path = customer_uso_cfdi
 	url = git@github.com:xmarts/customer_uso_cfdi.git
 	branch = master
+
+[submodule "pos_stock_qty"]
+	path = pos_stock_qty
+	url = git@github.com:xmarts/pos_stock_qty.git
+	branch = master
