@@ -15,3 +15,7 @@
 [submodule "l10n_mx_edi_autofill"]
 	path = l10n_mx_edi_autofill
 	url = git@gitlab.com:xmarts/xmarts-apps/l10n_mx_edi_autofill.git
+[submodule "product_return_pos"]
+	path = product_return_pos
+	url = git@github.com:oskr-bass/product_return_pos.git
+	branch = master
