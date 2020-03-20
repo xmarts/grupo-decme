@@ -1,4 +1,0 @@
-[submodule "customer_uso_cfdi"]
-	path = customer_uso_cfdi
-	url = git@github.com:xmarts/customer_uso_cfdi.git
-	branch = master
