@@ -1,7 +1,3 @@
-[submodule "rma_ept_x"]
-	path = rma_ept_x
-	url = git@github.com:viernes/rma_ept_x.git
-
 [submodule "pos_stock_qty"]
 	path = pos_stock_qty
 	url = git@github.com:xmarts/pos_stock_qty.git
