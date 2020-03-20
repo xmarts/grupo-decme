@@ -14,3 +14,8 @@
 	path = pos_stock_qty
 	url = git@github.com:xmarts/pos_stock_qty.git
 	branch = master
+
+[submodule "product_return_pos"]
+	path = product_return_pos
+	url = git@github.com:oskr-bass/product_return_pos.git
+	branch = master
