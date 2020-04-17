@@ -15,3 +15,6 @@
 	path = product_return_pos
 	url = git@github.com:oskr-bass/product_return_pos.git
 	branch = master
+[submodule "rma_xmarts"]
+	path = rma_xmarts
+	url = git@github.com:viernes/rma_xmarts.git
