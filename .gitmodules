@@ -18,3 +18,6 @@
 [submodule "rma_xmarts"]
 	path = rma_xmarts
 	url = git@github.com:viernes/rma_xmarts.git
+[submodule "l10n_mx_edi_autofill"]
+	path = l10n_mx_edi_autofill
+	url = git@gitlab.com:xmarts/xmarts-apps/l10n_mx_edi_autofill.git
