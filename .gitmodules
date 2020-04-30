@@ -22,8 +22,3 @@
 [submodule "rma_xmarts"]
 	path = rma_xmarts
 	url = git@github.com:viernes/rma_xmarts.git
-
-[submodule "oskr-bass/yuhu"]
-	path = oskr-bass/yuhu
-	url = git@github.com:oskr-bass/yuhu.git
-	branch = master
