@@ -21,3 +21,6 @@
 [submodule "l10n_mx_edi_autofill"]
 	path = l10n_mx_edi_autofill
 	url = git@gitlab.com:xmarts/xmarts-apps/l10n_mx_edi_autofill.git
+[submodule "madkting"]
+	path = madkting
+	url = git@github.com:William954/madkting.git
