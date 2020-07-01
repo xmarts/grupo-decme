@@ -22,3 +22,6 @@
 [submodule "rma_xmarts"]
 	path = rma_xmarts
 	url = git@github.com:viernes/rma_xmarts.git
+[submodule "madkting"]
+	path = madkting
+	url = git@github.com:William954/madkting.git
